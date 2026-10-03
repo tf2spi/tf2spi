@@ -4,7 +4,7 @@ Hello! I'm a programmer who loves learning about low-level software, like kernel
 
 I also enjoy making various gists to solve practical problems I have, especially JS snippets to run in a browser window to automate extraction/browser actions, and various C,Python programs to solve system problems or test various systems concepts.
 
-I also have exposure to hypervisors like Xen and switches, routers, and firewalls like Cisco products, especially from my CCNA
+I also have exposure to hypervisors like Xen and switches, routers, and firewalls, especially from my CCNA
 
 ## Links
 
