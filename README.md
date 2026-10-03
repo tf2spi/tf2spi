@@ -1,8 +1,6 @@
 # tf2spi
 
-Hello! I'm a programmer who loves learning about low-level software, like kernels, compilers, emulators, debuggers, and retro consoles, and have contributed to various projects like odin-lang, LLVM, and scape.
-
-I also really like working with networks! I enjoy learning all about routers, switches, and firewalls. I love simulating networks with VPNs and experimenting with different OSes like OPNSense, Arista, and Cisco IOS, whether through containers or hypervisors.
+Hello! I'm a programmer who loves learning about low-level software, like kernels, compilers, emulators, debuggers, and retro consoles, and have contributed to various projects like odin-lang, LLVM, and scapy.
 
 ## Links
 
